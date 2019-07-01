@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+}
+
+h4 {
+    color:pink;
+}
+
+div.margem3 {
+    background: #900;
+    color: #FFF;
+    padding: 10px;
+    margin: 10px;
+}
