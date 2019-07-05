@@ -2,13 +2,21 @@ h1 {
     color: blue;
 }
 
-h4 {
-    color:pink;
+h5 {
+    color:black;
 }
 
-div.margem3 {
-    background: #900;
-    color: #FFF;
-    padding: 10px;
-    margin: 10px;
+.PT {
+    color:green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.EN {
+    color:blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ES {
+    color:orange;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
